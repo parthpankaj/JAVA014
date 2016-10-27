@@ -1,3 +1,14 @@
-# JAVA014
 
-NOT ABLE TO WRITE PROGRAM... HELP
+public class Ascii {
+		public static void main(String[] args) {
+			for (int i = 65; i <= 90; i++) {
+				System.out.println( i +"-" +(char)i);
+			}
+
+		}
+
+	}
+
+
+	
+
